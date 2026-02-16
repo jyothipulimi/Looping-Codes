@@ -1,3 +1,5 @@
+# Reverse a Number Program
+
 n = int(input("Enter n: "))     # 1223
 rev = 0                         # 0
 while n>0:                      # 1223 > 0
